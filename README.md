@@ -42,12 +42,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Minecraft Edition)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adxqh14&theme=tokyonight" alt="GitHub Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adxqh14&theme=PRORIACHTIVE" alt="GitHub Stats Card (Minecraft)" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adxqh14&theme=tokyonight" alt="Profile Details Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adxqh14&theme=PRORIACHTIVE" alt="Profile Details Card (Minecraft)" />
 </p>
