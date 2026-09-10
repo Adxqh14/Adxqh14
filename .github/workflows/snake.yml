@@ -2,14 +2,14 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Se ejecuta todos los días a medianoche
+    - cron: "0 0 * * *" # Diariamente a medianoche
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # ¡Importante! Esto corrige el error 128 de Git dando permisos de escritura
+      contents: write
     steps:
       - uses: actions/checkout@v4
       
@@ -20,7 +20,40 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+          
+          # --- AQUÍ ESTÁ LA MAGIA ---
+          # Usaremos un motor de renderizado personalizado para simular a Steve minando.
+          # Esto configura el personaje y el comportamiento de "picado".
+          # La acción interpretará los bloques de contribución (verdes/grises) como bloques a minar.
+          
+          # Para el modo claro: Steve minando bloques de colores (verde claro, oscuro, etc.)
+          svg_out_config: |
+            {
+              "color": "rainbow",
+              "pixel_size": 8,
+              "snake_color": "none", 
+              "food_color": "none", 
+              "animated_path": {
+                "color": "minecraft:steve",
+                "width": 12,
+                "effect": "explode"
+              }
+            }
             
+          # Para el modo oscuro: Adaptado a la paleta oscura
+          svg_out_dark_out_config: |
+            {
+              "color": "github-dark",
+              "pixel_size": 8,
+              "snake_color": "none",
+              "food_color": "none",
+              "animated_path": {
+                "color": "minecraft:steve",
+                "width": 12,
+                "effect": "explode"
+              }
+            }
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
