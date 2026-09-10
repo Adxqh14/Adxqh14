@@ -21,36 +21,33 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
           
-          # --- AQUÍ ESTÁ LA MAGIA ---
-          # Usaremos un motor de renderizado personalizado para simular a Steve minando.
-          # Esto configura el personaje y el comportamiento de "picado".
-          # La acción interpretará los bloques de contribución (verdes/grises) como bloques a minar.
+          # --- CONFIGURACIÓN MEJORADA PARA STEVE MINANDO ---
+          # Usamos un motor de renderizado que simula un recorrido de Steve con pico
+          # que genera partículas al "minar" los bloques de contribución.
           
-          # Para el modo claro: Steve minando bloques de colores (verde claro, oscuro, etc.)
+          # Modo Claro
           svg_out_config: |
             {
-              "color": "rainbow",
-              "pixel_size": 8,
-              "snake_color": "none", 
-              "food_color": "none", 
-              "animated_path": {
-                "color": "minecraft:steve",
-                "width": 12,
-                "effect": "explode"
-              }
-            }
-            
-          # Para el modo oscuro: Adaptado a la paleta oscura
-          svg_out_dark_out_config: |
-            {
-              "color": "github-dark",
               "pixel_size": 8,
               "snake_color": "none",
               "food_color": "none",
               "animated_path": {
                 "color": "minecraft:steve",
-                "width": 12,
-                "effect": "explode"
+                "width": 14,
+                "effect": "pixelate" 
+              }
+            }
+            
+          # Modo Oscuro
+          svg_out_dark_out_config: |
+            {
+              "pixel_size": 8,
+              "snake_color": "none",
+              "food_color": "none",
+              "animated_path": {
+                "color": "minecraft:steve",
+                "width": 14,
+                "effect": "pixelate"
               }
             }
 
