@@ -15,9 +15,12 @@
 
 ---
 
-<!-- Steve minando (Minecraft) - Enlace estable -->
+<!-- Steve minando (Minecraft) - Enlace seguro verificado -->
 <p align="center">
-  <img src="https://i.imgur.com/XQvLwH3.gif" width="280" alt="Minecraft Steve mining" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px" alt="Animation" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/uMlUobN7G9nYA/giphy.gif" width="280" alt="Minecraft Steve mining" />
 </p>
 
 ---
