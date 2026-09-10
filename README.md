@@ -15,9 +15,9 @@
 
 ---
 
-<!-- Steve minando (Minecraft) -->
+<!-- Steve minando (Minecraft) - Enlace estable -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1bXN4NXR3YXU2NnFwY3BwY3BwY3BwY3BwY3BwY3BwY3BwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LnjD7MMZ2s8i4/giphy.gif" width="280" alt="Minecraft Steve mining" />
+  <img src="https://i.imgur.com/XQvLwH3.gif" width="280" alt="Minecraft Steve mining" />
 </p>
 
 ---
@@ -42,12 +42,12 @@
 
 ---
 
-## 📊 GitHub Stats (Minecraft Edition)
+## 📊 GitHub Stats (Dark Edition)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adxqh14&theme=PRORIACHTIVE" alt="GitHub Stats Card (Minecraft)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adxqh14&theme=dark" alt="GitHub Stats Card (Dark)" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adxqh14&theme=PRORIACHTIVE" alt="Profile Details Card (Minecraft)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adxqh14&theme=dark" alt="Profile Details Card (Dark)" />
 </p>
