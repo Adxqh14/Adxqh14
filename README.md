@@ -15,7 +15,7 @@
 
 ---
 
-<!-- Animación del laberinto de contribuciones (Minecraft style grid) -->
+<!-- Animación del cohete recorriendo las contribuciones -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adxqh14/Adxqh14/output/github-snake-dark.svg">
