@@ -45,9 +45,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adxqh14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=13141f&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adxqh14&theme=tokyonight" alt="GitHub Stats Card" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxqh14&layout=compact&theme=tokyonight&hide_border=true&bg_color=13141f" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adxqh14&theme=tokyonight" alt="Profile Details Card" />
 </p>
