@@ -15,12 +15,13 @@
 
 ---
 
-<!-- Steve minando (Minecraft) - Enlace seguro verificado -->
+<!-- Animación del laberinto de contribuciones (Minecraft style grid) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px" alt="Animation" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/uMlUobN7G9nYA/giphy.gif" width="280" alt="Minecraft Steve mining" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adxqh14/Adxqh14/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adxqh14/Adxqh14/output/github-snake.svg">
+    <img alt="github-snake animation" src="https://raw.githubusercontent.com/Adxqh14/Adxqh14/output/github-snake.svg">
+  </picture>
 </p>
 
 ---
