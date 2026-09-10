@@ -15,17 +15,29 @@
 
 ---
 
-<!-- Steve minando (Minecraft) centrado y funcionando -->
+<!-- Steve minando (Minecraft) -->
 <p align="center">
-  <img src="https://assets.gamedesk.org/images/minecraft-steve-mining.gif" width="280" alt="Minecraft Steve mining" onerror="this.src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1bXN4NXR3YXU2NnFwY3BwY3BwY3BwY3BwY3BwY3BwY3BwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LnjD7MMZ2s8i4/giphy.gif'" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1bXN4NXR3YXU2NnFwY3BwY3BwY3BwY3BwY3BwY3BwY3BwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LnjD7MMZ2s8i4/giphy.gif" width="280" alt="Minecraft Steve mining" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,js,html,css,net,nodejs,express,postgres,mongodb,mysql,docker,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,js,html,css" />
+</p>
+
+## ⚙️ Frameworks & Mobile
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=net,nodejs,express" />
+</p>
+
+## 🗄️ Databases & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github,vscode,postman" />
 </p>
 
 ---
@@ -33,7 +45,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adxqh14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=13141f" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adxqh14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=13141f&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
