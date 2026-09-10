@@ -24,6 +24,11 @@
   </picture>
 </p>
 
+<!-- Gráfica completa de actividad de commits -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adxqh14&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
