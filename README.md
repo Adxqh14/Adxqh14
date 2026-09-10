@@ -15,13 +15,9 @@
 
 ---
 
-<!-- Animación estilo minero / snake adaptada para tu perfil -->
+<!-- Sección temática de Minecraft: Steve minando -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adxqh14/Adxqh14/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adxqh14/Adxqh14/output/github-snake.svg">
-    <img alt="github-snake animation" src="https://raw.githubusercontent.com/Adxqh14/Adxqh14/output/github-snake.svg">
-  </picture>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1bXN4NXR3YXU2NnFwY3BwY3BwY3BwY3BwY3BwY3BwY3BwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LnjD7MMZ2s8i4/giphy.gif" width="320" alt="Minecraft Steve mining" />
 </p>
 
 ---
