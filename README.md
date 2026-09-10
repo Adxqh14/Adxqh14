@@ -15,43 +15,27 @@
 
 ---
 
-<!-- Sección temática de Minecraft: Steve minando -->
+<!-- Steve minando (Minecraft) centrado y funcionando -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1bXN4NXR3YXU2NnFwY3BwY3BwY3BwY3BwY3BwY3BwY3BwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LnjD7MMZ2s8i4/giphy.gif" width="320" alt="Minecraft Steve mining" />
+  <img src="https://assets.gamedesk.org/images/minecraft-steve-mining.gif" width="280" alt="Minecraft Steve mining" onerror="this.src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1bXN4NXR3YXU2NnFwY3BwY3BwY3BwY3BwY3BwY3BwY3BwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LnjD7MMZ2s8i4/giphy.gif'" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <!-- Frontend & Core -->
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,js,html,css,net,nodejs,express,postgres,mongodb,mysql,docker,git,github,vscode,postman" />
 </p>
-
-## ⚙️ Frameworks & Mobile
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=net,maui,nodejs,express" />
-</p>
-
-## 🗄️ Databases & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,sqlserver,mongodb,mysql,docker,git,github,vscode,postman" />
-</p>
-
----
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adxqh14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=13141f&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxqh14&layout=compact&theme=tokyonight&hide_border=true&bg_color=13141f" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adxqh14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=13141f" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxqh14&layout=compact&theme=tokyonight&hide_border=true&bg_color=13141f" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxqh14&layout=compact&theme=tokyonight&hide_border=true&bg_color=13141f" alt="Top Langs" />
 </p>
