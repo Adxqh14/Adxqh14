@@ -43,10 +43,13 @@
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adxqh14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=13141f" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adxqh14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=13141f&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxqh14&layout=compact&theme=tokyonight&hide_border=true&bg_color=13141f" width="49%" />
 </p>
 
 <p align="center">
